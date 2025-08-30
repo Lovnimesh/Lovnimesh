@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lovnimesh
 - 👀 I’m interested in ...coding and coding
-- 🌱 I’m currently learning ...python and web dev
+- 🌱 I’m currently learning ...cpp and web dev
 - 💞️ I’m looking to collaborate on ...anyone
 - 📫 How to reach me ...nimeshlov52@gmail.com
 - 😄 Pronouns: ...he/him
