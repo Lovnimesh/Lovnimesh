@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @Lovnimesh
-- 👀 I’m interested in ...coding and coding
-- 🌱 I’m currently learning ...cpp and web dev
-- 💞️ I’m looking to collaborate on ...anyone
-- 📫 How to reach me ...nimeshlov52@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Lov Nimesh
 
-<!---
-Lovnimesh/Lovnimesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Backend-Focused Full Stack Developer | Cloud Enthusiast | DSA Learner  
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 2nd Year B.Tech Computer Science Student  
+- 👀 Passionate about coding and problem-solving  
+- 🌱 Currently learning Java, Data Structures & Algorithms, and Cloud Computing  
+- 💻 Interested in Backend Development, Full Stack Development, and Cloud Technologies  
+- 🛠 Exploring APIs, Databases, and Deployment  
+- 🤝 Open to collaborating on development and cloud-based projects  
+
+---
+
+## 🧠 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms  
+- ⚙️ Building backend projects using Java  
+- ☁️ Learning Cloud platforms and deployment strategies  
+- 🗄️ Strengthening DBMS and SQL concepts  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Java | JavaScript | SQL  
+
+**Web Development:**  
+HTML | CSS | Node.js | Express  
+
+**Databases:**  
+MySQL  
+
+**Tools & Platforms:**  
+Git | GitHub | Linux | VS Code  
+
+---
+
+## 📈 Goals
+
+- 💡 Become a strong Backend Engineer  
+- ☁️ Gain expertise in Cloud Computing & Scalable Systems  
+- 🌍 Contribute to Open Source  
+- 🚀 Build impactful real-world applications  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: nimeshlov52@gmail.com  
+😄 Pronouns: He/Him  
+
+---
+
+⭐ *Consistent coding and continuous improvement.*
