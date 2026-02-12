@@ -18,7 +18,7 @@
 ## 🧠 Current Focus
 
 - 📚 Mastering Data Structures & Algorithms  
-- ⚙️ Building backend projects using Java  
+- ⚙️ Building backend projects
 - ☁️ Learning Cloud platforms and deployment strategies  
 - 🗄️ Strengthening DBMS and SQL concepts  
 
