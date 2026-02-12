@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year B.Tech Computer Science Student  
+- 🎓 B.Tech CSE'28 @LPU 
 - 👀 Passionate about coding and problem-solving  
 - 🌱 Currently learning Java, Data Structures & Algorithms, and Cloud Computing  
 - 💻 Interested in Backend Development, Full Stack Development, and Cloud Technologies  
