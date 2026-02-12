@@ -27,10 +27,10 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-Java | JavaScript | SQL  
+Pyhton | CPP | Java | JavaScript | SQL  
 
 **Web Development:**  
-HTML | CSS | Node.js | Express  
+HTML | CSS | React.js | Node.js | Express  
 
 **Databases:**  
 MySQL  
